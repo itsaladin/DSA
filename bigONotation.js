@@ -1,4 +1,6 @@
 // case 1 to checking time complex
+// here, high time complexcity, & `Big 0(n)`
+
 // function sumOfAll(n) {
 //   let total = 0;
 //   for (let i = 0; i <= n; i++) {
@@ -8,6 +10,8 @@
 // }
 
 // case 2 to checking time complex
+// here, Low time complexcity, & `Big 0(1)`
+
 function sumOfAll(n) {
   return (n * (n + 1)) / 2;
 }
