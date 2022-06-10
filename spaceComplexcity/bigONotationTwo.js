@@ -1,4 +1,4 @@
-//space complexcity big 0 notation 0(1)
+//space complexity big 0 notation 0(1)
 // function sum(arr) {
 //   let total = 0;
 //   for (let i = 0; i < arr.length; i++) {
@@ -8,7 +8,7 @@
 // }
 // console.log(sum([23, 4, 6]));
 
-//space complexcity big 0 notation 0(n)
+//space complexity big 0 notation 0(n)
 function double(arr) {
   let newArr = [];
   for (let i = 0; i < arr.length; i++) {
